@@ -1,0 +1,10 @@
+git init
+git status
+git config --list
+git branch
+git pull
+git hush
+git remore
+git add
+git commit -m
+///
