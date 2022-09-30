@@ -1,0 +1,5 @@
+#New file for project
+#Python and Java
+repo = "very good repository"
+if repo == "very good repository":
+	print(f'True == ' repo)
