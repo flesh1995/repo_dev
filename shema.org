@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 xml house Aqara home
+=======
+update PHP code
+>>>>>>> Stashed changes
